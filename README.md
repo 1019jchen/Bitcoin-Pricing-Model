@@ -2,7 +2,7 @@
 
 ## Information on the Data:
 
-All the data used is from the following sources:
+The data used is from the time period 01/01/2016-01/01/2023. All the data used is from the following sources:
 - Bitcoin Data (contains information on opening, closing prices and returns): https://www.investing.com/crypto/bitcoin/historical-data
 
 The Bitcoin Data is the variable that we wish to model and predict better with the other information provided.
